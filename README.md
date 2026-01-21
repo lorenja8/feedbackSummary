@@ -62,16 +62,16 @@ The following are backend modules and their functionalities:
   - all files used to define and initialize the PostgreSQL database
 
 Other included files
-- .env - contains environment variables used when running backend container locally; when deployed to AWS environment variables are manually input during configuration
-- requirements.txt - list of used Python libraries (crucial for containerization)
-- Dockerfile - defines, how the backend container is built
+- *.env* - contains environment variables used when running backend container locally; when deployed to AWS environment variables are manually input during configuration
+- *requirements.txt* - list of used Python libraries (crucial for containerization)
+- *Dockerfile* - defines, how the backend container is built
 
 ![feedbackSummary - backend](https://github.com/user-attachments/assets/f9c7032d-a7bf-49cf-bb3c-f9291900d95d)
 
 ### Frontend
 - TypeScript + React frontend app
 - in the diagram below is a simplified structure of frontend showing individual pages and links between those pages
-- **as I am not profficient in TypeScript, the front end was generated per partes using AI prompts**
+- **as I am not profficient in TypeScript, the frontend was generated per partes using AI prompts**
 
 Components:
 - *Dashboard*
