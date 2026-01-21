@@ -1,7 +1,7 @@
 # Feedback Summary App
 ### Intro
 The app was created as a pet project with several goals:
-- to develop my a functioning app
+- to develop a functioning app
 - to learn new technologies
 - to add something to my porfolio
 - to exercise my brain muscle
