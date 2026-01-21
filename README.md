@@ -34,7 +34,7 @@ The app has a traditional structure - database, backend, frontend. Each layer is
 - deployed using **Amazon Web Service RDS** functionality
 - tables created (unless present already) with backend initialization (see db/init_db.py) 
 
-![feedbackSummary - db](https://github.com/user-attachments/assets/9527d725-5865-4d52-bf59-8af63da30b6d)
+![feedbackSummary - db](https://github.com/user-attachments/assets/cdbb44f2-11b7-4b0d-b5f4-40706c0c334c)
 
 ### Backend
 - 2 main components
@@ -66,7 +66,7 @@ Other included files
 - requirements.txt - list of used Python libraries (crucial for containerization)
 - Dockerfile - defines, how the backend container is built
 
-![feedbackSummary - backend](https://github.com/user-attachments/assets/c4bd9918-4f0a-4c34-b445-b28f55704167)
+![feedbackSummary - backend](https://github.com/user-attachments/assets/f9c7032d-a7bf-49cf-bb3c-f9291900d95d)
 
 ### Frontend
 - TypeScript + React frontend app
@@ -94,7 +94,7 @@ Components:
   - each feedback session represented by its own collapsable *SessionEditorCard*
   - admin may change the session name, start and end date, and questions
  
-![feedbackSummary - frontend](https://github.com/user-attachments/assets/3a81a44f-9f75-4a05-8ded-b745e15b7930)
+![feedbackSummary - frontend](https://github.com/user-attachments/assets/6adf33cf-83fa-4de8-97b5-96efe006ca53)
 
 There are many more files used by the front end app. To list them all would be exhaustive. Nevertheless, files are structured into folders by the file's purpose.
 - *src/api*
@@ -142,5 +142,5 @@ The deployment process is described chronologically below.
 I have managed to deploy a full-stack somewhat functional app, and although the development was longer then expected, and the app still lacks functionalities, this project served its primary focus - to provide a learning platform for a variety of technologies. Should the app ever be used in practice, there are many additional functionalities, I can think of (e.g. profile edit page, other types of questions, better overall design to enable a more flexible usecase selection...). I believe, that the POC works, and further development would necessitate a thorougher requirement analysis. Nevertheless, I am happy with the result, and may come back to the project in the future.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/98e99942-7c39-477c-badb-f8e73ca3a34a" width="500">
+  <img src="https://github.com/user-attachments/assets/e20551cd-56fc-41a6-989e-97ff2a37e0b0" width="500">
 </div>
