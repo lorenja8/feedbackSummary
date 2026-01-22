@@ -24,6 +24,9 @@ The app is far from finished, and there are certainly many features to add. Neve
 > [!IMPORTANT]
 > [Feedback App](http://16.171.33.50:8080/)
 > (for you to know, where you're going: http://16.171.33.50:8080/)
+> log in with
+> - username: showcase_student / showcase_teacher / showcase_admin
+> - password: 1234
 
 ## Project structure
 The app has a traditional structure - database, backend, frontend. Each layer is described in more detail below.
@@ -139,7 +142,7 @@ The deployment process is described chronologically below.
     - Enable health checks to monitor application availability
 
 ## Conclusion
-I have managed to deploy a full-stack somewhat functional app, and although the development was longer then expected, and the app still lacks functionalities, this project served its primary focus - to provide a learning platform for a variety of technologies. Should the app ever be used in practice, there are many additional functionalities, I can think of (e.g. profile edit page, other types of questions, better overall design to enable a more flexible usecase selection...). I believe, that the POC works, and further development would necessitate a thorougher requirement analysis. Nevertheless, I am happy with the result, and may come back to the project in the future.
+I have managed to deploy a full-stack somewhat functional app, and although the development was longer then expected, and the app still lacks functionalities, this project served its primary focus - to provide a learning platform for a variety of technologies. Should the app ever be used in practice, there are many additional functionalities, I can think of (e.g. profile edit page, better sentiment analysis, other types of questions, improved UI, better overall design to enable a more flexible usecase selection...). I believe, that the POC works, and further development would necessitate a thorougher requirement analysis. Nevertheless, I am happy with the result, and may come back to the project in the future.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e20551cd-56fc-41a6-989e-97ff2a37e0b0" width="500">
