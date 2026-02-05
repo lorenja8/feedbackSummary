@@ -22,7 +22,7 @@ Preliminary project structure involves
 ### Preview
 The app is far from finished, and there are certainly many features to add. Nevertheless, I have deployed the app on AWS - for those interested, visit the link below
 > [!IMPORTANT]
-> [Feedback App](http://16.171.33.50:8080/)
+> [Feedback App](http://51.20.130.47:8080/)
 > (for you to know, where you're going: http://16.171.33.50:8080/)
 > log in with
 > - username: showcase_student / showcase_teacher / showcase_admin
